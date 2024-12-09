@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Build/Dist Directories
+frontend/build/
+frontend/dist/
+
+# Coverage Reports
+coverage/
+
+# IDE Config Files
+.vscode/
+.idea/
