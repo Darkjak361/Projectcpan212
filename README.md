@@ -51,7 +51,7 @@ cd frontend
 How it works
 
     When you first open the app, it shows the weather for several cities in Canada.
-    Once you log in or sign up, you can use the search bar to search for weather in any city.
+    Once you log in or sign up, refresh the page, and you'll see a search bar that you can use to search for weather in any city.
 
 Things Used
 
