@@ -16,8 +16,6 @@ git clone  https://github.com/Darkjak361/Projectcpan212.git
 
 Navigate into the project folder:
 
-cd canada-weather-app
-
 Install the required dependencies for both frontend and backend.
 
 For the backend (in the backend folder):
@@ -35,7 +33,7 @@ Running the App
     Start the backend server:
 
     Go to the backend folder and run:
-
+cd backend
 node server.js
 
 This will start the backend server on http://localhost:5000.
@@ -43,7 +41,7 @@ This will start the backend server on http://localhost:5000.
 Start the frontend server:
 
 Go to the frontend folder and run:
-
+cd frontend
     npm start
 
     This will start the frontend on http://localhost:3000.
